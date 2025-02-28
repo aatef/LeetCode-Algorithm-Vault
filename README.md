@@ -1,4 +1,10 @@
-## 🚀 LeetCode Algorithm Vault 🏆  
+# 🚀 LeetCode Algorithm Vault 🏆  
+
+![GitHub Repo stars](https://img.shields.io/github/stars/aatef/LeetCode-Algorithm-Vault?style=flat-square)  
+![GitHub forks](https://img.shields.io/github/forks/aatef/LeetCode-Algorithm-Vault?style=flat-square)  
+![GitHub issues](https://img.shields.io/github/issues/aatef/LeetCode-Algorithm-Vault?style=flat-square)  
+![GitHub pull requests](https://img.shields.io/github/issues-pr/aatef/LeetCode-Algorithm-Vault?style=flat-square)  
+![GitHub last commit](https://img.shields.io/github/last-commit/aatef/LeetCode-Algorithm-Vault?style=flat-square)  
 
 Welcome to **LeetCode Algorithm Vault** – a **comprehensive collection of LeetCode solutions** categorized by topic and difficulty level. This repository is designed to help you **master Data Structures & Algorithms** and prepare for **FAANG & top tech interviews**.  
 
@@ -6,7 +12,7 @@ Welcome to **LeetCode Algorithm Vault** – a **comprehensive collection of Leet
 🔹 **Pattern-based problem solving** to build intuition  
 🔹 **Best practices & efficient approaches**  
 
-⭐ **Star this repo** to support & keep learning!  
+⭐ **[Star this repo](https://github.com/aatef/LeetCode-Algorithm-Vault)** to support & keep learning!  
 
 ---
 
@@ -76,15 +82,15 @@ Welcome to **LeetCode Algorithm Vault** – a **comprehensive collection of Leet
 ---
 
 ## 🎯 **How to Use This Repo**  
-1. Clone the repo:  
+1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/yourusername/LeetCode-Algorithm-Vault.git
+   git clone https://github.com/aatef/LeetCode-Algorithm-Vault.git
    ```
-2. Navigate to the directory:  
+2. **Navigate to the directory:**  
    ```bash
    cd LeetCode-Algorithm-Vault
    ```
-3. Pick a problem and start coding! 🚀  
+3. **Pick a problem and start coding! 🚀**  
 
 ---
 
@@ -98,3 +104,13 @@ Welcome to **LeetCode Algorithm Vault** – a **comprehensive collection of Leet
 - Found a bug or have an improvement? Submit an **Issue**!  
 
 🔹 **If you find this helpful, give it a ⭐ and share!** 🚀  
+
+---
+
+### ✅ **Next Steps**  
+I Would:  
+- Add **contributor badges**?  
+- Include **a roadmap for problem-solving strategies**?  
+- Create a **Table of Contents with links** for easy navigation?  
+
+Let me know how I can make it further useful! 😃
