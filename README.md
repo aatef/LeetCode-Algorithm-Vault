@@ -8,32 +8,33 @@ Welcome to LeetCode Algorithm Vault – a comprehensive collection of LeetCode s
 
 ⭐ Star this repo to support & keep learning!
 📌 Top LeetCode Problems
-🔥 1. Arrays & Hashing
 
+🔥 1. Arrays & Hashing
 ✅ Two Sum (Easy) – O(n) HashMap approach
 ✅ Longest Consecutive Sequence (Medium) – O(n) HashSet approach
 ✅ Group Anagrams (Medium) – HashMap & sorting
 ✅ Product of Array Except Self (Medium) – Prefix/Suffix multiplication
 ✅ Top K Frequent Elements (Medium) – Heap & Bucket Sort
-🌟 2. Sliding Window
 
+🌟 2. Sliding Window
 ✅ Best Time to Buy and Sell Stock (Easy) – One pass O(n)
 ✅ Longest Substring Without Repeating Characters (Medium) – Two-pointer approach
 ✅ Permutation in String (Medium) – Sliding window with frequency map
 ✅ Minimum Window Substring (Hard) – O(n) two-pointer approach
-🚀 3. Binary Search
 
+🚀 3. Binary Search
 ✅ Binary Search (Easy) – Classic O(log n)
 ✅ Search in Rotated Sorted Array (Medium) – Modified binary search
 ✅ Find Minimum in Rotated Sorted Array (Medium) – O(log n) search
 ✅ Median of Two Sorted Arrays (Hard) – Binary search on partitions
-🔗 4. Linked Lists
 
+🔗 4. Linked Lists
 ✅ Reverse a Linked List (Easy) – Iterative/Recursive
 ✅ Merge Two Sorted Lists (Easy) – Merge sort style
 ✅ Linked List Cycle (Easy) – Floyd’s Tortoise and Hare
 ✅ Reorder List (Medium) – Two-pointer & Stack
 ✅ LRU Cache (Hard) – HashMap & Doubly Linked List
+
 🌳 5. Trees & Graphs
 
 ✅ Invert Binary Tree (Easy) – Recursive & BFS
